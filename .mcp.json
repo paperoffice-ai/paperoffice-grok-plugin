@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "paperoffice": {
+      "type": "http",
+      "url": "https://mcp.paperoffice.ai/grok",
+      "note": "PaperOffice hosted MCP server for document search, reading, creation and the Documents Operations catalog. Sign in with OAuth 2.1 on first connection, or send a PaperOffice user or group token (po_ut_ / po_gt_) as a bearer header."
+    }
+  }
+}
