@@ -1,7 +1,7 @@
 {
   "name": "paperoffice",
-  "version": "1.0.0",
-  "description": "Search, read and create documents in your PaperOffice account from Grok Build. Remote MCP server, OAuth 2.1 or PaperOffice user token, EU hosted.",
+  "version": "1.1.0",
+  "description": "Search, read, extract and organize documents in your PaperOffice account from Grok Build. Remote MCP server with 52 individually listed tools, OAuth 2.1 or PaperOffice user token, EU hosted.",
   "author": {
     "name": "PaperOffice",
     "url": "https://github.com/paperoffice-ai"
@@ -12,9 +12,6 @@
   "keywords": [
     "paperoffice",
     "paperoffice mcp",
-    "paperoffice documents",
-    "document-ai",
-    "dms",
-    "mcp"
+    "paperoffice documents"
   ]
 }
